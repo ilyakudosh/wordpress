@@ -1,2 +1,2 @@
 # wordpress
-Вертска сайта wordpress
+Сайт wordpress
